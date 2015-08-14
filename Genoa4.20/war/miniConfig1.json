@@ -1,0 +1,10 @@
+[{code:1,status:"undamaged",turns:0,X:2,Y:2},
+{code:2,status:"undamaged",turns:1,X:3,Y:2},
+{code:3,status:"undamaged",turns:2,X:4,Y:2},
+{code:61,status:"undamaged",turns:0,X:1,Y:2},
+{code:151,status:"undamaged",turns:1,X:2,Y:1},
+{code:161,status:"undamaged",turns:2,X:3,Y:1},
+{code:141,status:"undamaged",turns:0,X:4,Y:1},
+{code:91,status:"undamaged",turns:1,X:2,Y:3},
+{code:171,status:"undamaged",turns:2,X:3,Y:3},
+{code:111,status:"undamaged",turns:0,X:4,Y:3}]

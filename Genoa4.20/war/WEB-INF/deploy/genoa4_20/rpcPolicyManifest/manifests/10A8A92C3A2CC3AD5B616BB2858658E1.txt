@@ -1,0 +1,2 @@
+serviceClass: finalProject.client.GreetingService
+path: 914AF99EA25F3910D98026CB5441C134.gwt.rpc
